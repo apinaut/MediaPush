@@ -1,7 +1,7 @@
 MediaPush
 =========
 
-This one is a little demo project how the API O MAT backend as a service can be used to build a media push in android.
+This one is a little demo project how the apiOmat backend as a service can be used to build a media push in android.
 
 
 Installation
@@ -23,8 +23,8 @@ Attach images and files on your push messages and send them along now.
 
 ```java
 PushMessage pushMessage = new PushMessage();
-pushMessage.setPayload(„Write your message here“);
-pushMessage.setReceiverUserName(„nameOfRecipient“);
+pushMessage.setPayload("Write your message here");
+pushMessage.setReceiverUserName("nameOfRecipient");
 ```
 
 Now attach an image and send the push to the recipient:
@@ -62,4 +62,14 @@ pushMessage.postFileAsync(byteArray, new AOMEmptyCallback() {
  
     }});
 ```
+
+Contributing
+------------
+
+Since we imagine you a android developer, you are very likely better in programming android than we are. So, if you have recommendations, 
+questions or better solutions for the code, just get in contact 
+
+* [Our newsgroup](https://groups.google.com/group/api-o-mat-newsletter/subscribe)
+* [Our website](http://apiomat.com)
+* [Twitter #APIOMAT](http://twitter.com/apiomat)
 
