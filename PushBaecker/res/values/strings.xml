@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PushBaecker</string>
+    <string name="imageDesc">Picture</string>
+     <string name="imageUpload">Upload</string>
+    <string name="message">type your message here</string>
+    <string name="sendPush">save and send</string>
+</resources>
