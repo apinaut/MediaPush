@@ -10,7 +10,7 @@ Installation
 Pull the content of this repository to your dev environment and create an android project from it. Then, please, create your
 own accout at http://apiomat.com and do the following:
 * Create an app
-* Add at least the Chat module
+* Add at least the Push module
 * Deploy on live system 
 * Download the SDK and unzip it into the /src folder. It is OK to overwrite the existing files.
 
